@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /feeds/
+Disallow: /backup/
+Sitemap: http://www.quhuashuai.com/sitemap.xml

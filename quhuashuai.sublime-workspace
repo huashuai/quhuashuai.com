@@ -1,0 +1,478 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fea",
+				"features"
+			],
+			[
+				"data",
+				"DATA_DIR"
+			],
+			[
+				"va",
+				"varphi	\\varphi"
+			],
+			[
+				"FXu",
+				"FXuY"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ipython",
+				"Open IPython Notebook"
+			],
+			[
+				"note",
+				"Open IPython Notebook"
+			],
+			[
+				"noteboo",
+				"Open IPython Notebook"
+			],
+			[
+				"not",
+				"Open IPython Notebook"
+			],
+			[
+				"noteb",
+				"Open IPython Notebook"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gitlog",
+				"Git: Log All"
+			],
+			[
+				"gitcomm",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Marked"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ipyth",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ipyt",
+				"Open IPython Notebook"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Open IPython Notebook"
+			],
+			[
+				"ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"t",
+				"Tasks: New document"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alig",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Latx",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Huashuai/Work/WebDev/quhuashuai.com/content/pages/index.md",
+		"/Users/Huashuai/Work/WebDev/quhuashuai.com/pelicanconf.py",
+		"/Users/Huashuai/Work/WebDev/homepage/tuxlite_tbs/templates/page.html",
+		"/Users/Huashuai/Work/WebDev/homepage/tuxlite_tbs/static/local.css",
+		"/Users/Huashuai/Work/WebDev/homepage/content/pages/links.md",
+		"/Users/Huashuai/Work/WebDev/homepage/content/pages/index.md",
+		"/Users/Huashuai/Work/WebDev/homepage/content/pages/research.md",
+		"/Users/Huashuai/Work/WebDev/homepage/content/pages/awards.md",
+		"/Users/Huashuai/Work/WebDev/homepage/content/pages/teaching.md",
+		"/Users/Huashuai/Work/WebDev/homepage/tuxlite_tbs/templates/base.html",
+		"/Users/Huashuai/Work/WebDev/homepage/homepage.sublime-workspace",
+		"/Users/Huashuai/Work/papers/working_on/lasso/generate_binary.py",
+		"/Users/huashuai/Work/papers/working_on/lasso/results.md",
+		"/Users/Huashuai/Work/papers/working_on/lasso/README.md",
+		"/Users/Huashuai/Work/papers/working_on/lasso/TODO",
+		"/Volumes/HDD/Dropbox/Apps/sublime/Packages/User/Python/doc.sublime-snippet",
+		"/Volumes/HDD/Dropbox/Apps/sublime/Packages/User/Python/docstring.sublime-snippet",
+		"/Users/huashuai/Work/papers/working_on/lasso/.gitignore",
+		"/Users/Huashuai/Work/papers/working_on/vendavo/generate_binary.py",
+		"/Users/Huashuai/Work/papers/working_on/vendavo/TODO",
+		"/Users/Huashuai/Work/papers/working_on/vendavo/notes.md",
+		"/Users/Huashuai/Work/papers/working_on/BayesianLogit/code/python/generate_binary.py",
+		"/Users/Huashuai/Dropbox/papers (1)/wsc13latexpaper/wsc13paper_v3.tex",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Huashuai/Work/papers/working_on/BayesianLogit/papers/WSC2013/WSC2013_QuRyFu.tex",
+		"/Users/Huashuai/Dropbox/Study/Qiuzhen/eyeTracking/code/winBugs_count.r",
+		"/Users/Huashuai/Work/papers/working_on/BayesianLogit/papers/WSC2013/WSC2013_QuRyFu.bib",
+		"/Users/Huashuai/Work/Develop/python/dailyprogramming/0513Easy/FileParser.py",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Huashuai/Work/papers/working_on/BayesianLogit/papers/WSC2013/TODO",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/Huashuai/Work/papers/BayesianLogit/papers/WSC2013/TODO",
+		"/Users/Huashuai/Work/papers/StochasticApproximation/proposal/SAproposal.tex",
+		"/Users/Huashuai/Work/papers/StochasticApproximation/TODO.TODO",
+		"/Users/Huashuai/Work/papers/BayesianLogit/papers/WSC2013/WSC2013_QuRyFu.out",
+		"/Users/Huashuai/Work/papers/BayesianLogit/papers/WSC2013/WSC2013_QuRyFu.tex",
+		"/Users/Huashuai/Work/Develop/python/spsa/spsa/SPSA.py",
+		"/Users/Huashuai/Work/papers/GESK/code/GESK_EX1.m",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Huashuai/Work/websites/learn_html_css/about.html",
+		"/Users/Huashuai/Work/websites/learn_html_css/index.html",
+		"/Users/Huashuai/Work/websites/learn_html_css/style.css",
+		"/Users/Huashuai/Work/Code/Python/webpy/simple-todo/controllers/todo.py",
+		"/Users/Huashuai/Work/Code/Python/webpy/simple-todo/config/url.py",
+		"/Users/Huashuai/Work/Code/Python/webpy/simple-todo/templates/index.html",
+		"/Users/Huashuai/Work/Code/Python/webpy/simple-todo/code.py",
+		"/Users/Huashuai/Downloads/solarized/textmate-colors-solarized/Solarized (dark).tmTheme",
+		"/Users/Huashuai/Work/papers/StochasticKriging/code/SimMM1Queue.m",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/User/Terminal.sublime-settings",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Users/Huashuai/Work/2012_Spring/STAT730/hw5/hw5.tex",
+		"/Users/Huashuai/Work/2012_Spring/STAT730/code/coherence.r",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/Default/Default ().sublime-keymap",
+		"/Users/Huashuai/Work/2012_Spring/STAT730/code/coherence.R",
+		"/Users/Huashuai/Library/Application Support/Sublime Text 2/Packages/User/Send it to R.py",
+		"/Users/Huashuai/OpenSource/SublimeText2/send_to_R.py",
+		"/Users/Huashuai/Desktop/test.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table",
+			"    #",
+			"enumerate",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 260.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"peli",
+				"pelicanconf.py"
+			],
+			[
+				"index.md",
+				"content/pages/index.md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"tod",
+				"TODO"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"gen",
+				"generate_binary.py"
+			],
+			[
+				"bib",
+				"WSC2013_QuRyFu.bib"
+			],
+			[
+				"tex",
+				"WSC2013_QuRyFu.tex"
+			],
+			[
+				"todo",
+				"TODO"
+			],
+			[
+				"wsctex",
+				"WSC2013_QuRyFu.tex"
+			],
+			[
+				"sps",
+				"spsa/SPSA.py"
+			],
+			[
+				"indx",
+				"templates/index.html"
+			],
+			[
+				"todo.py",
+				"controllers/todo.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}
